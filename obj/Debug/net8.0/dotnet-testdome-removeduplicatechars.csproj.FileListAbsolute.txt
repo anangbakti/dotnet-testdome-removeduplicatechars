@@ -1,0 +1,14 @@
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\bin\Debug\net8.0\dotnet-testdome-removeduplicatechars.exe
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\bin\Debug\net8.0\dotnet-testdome-removeduplicatechars.deps.json
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\bin\Debug\net8.0\dotnet-testdome-removeduplicatechars.runtimeconfig.json
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\bin\Debug\net8.0\dotnet-testdome-removeduplicatechars.dll
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\bin\Debug\net8.0\dotnet-testdome-removeduplicatechars.pdb
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\obj\Debug\net8.0\dotnet-testdome-removeduplicatechars.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\obj\Debug\net8.0\dotnet-testdome-removeduplicatechars.AssemblyInfoInputs.cache
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\obj\Debug\net8.0\dotnet-testdome-removeduplicatechars.AssemblyInfo.cs
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\obj\Debug\net8.0\dotnet-testdome-removeduplicatechars.csproj.CoreCompileInputs.cache
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\obj\Debug\net8.0\dotnet-testdome-removeduplicatechars.dll
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\obj\Debug\net8.0\refint\dotnet-testdome-removeduplicatechars.dll
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\obj\Debug\net8.0\dotnet-testdome-removeduplicatechars.pdb
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\obj\Debug\net8.0\dotnet-testdome-removeduplicatechars.genruntimeconfig.cache
+E:\PROJECTS\dotnet-porto\dotnet-testdome-removeduplicatechars\obj\Debug\net8.0\ref\dotnet-testdome-removeduplicatechars.dll
